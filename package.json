@@ -1,15 +1,15 @@
 {
   "name": "folded-code-preview",
   "main": "./lib/folded-code-preview",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Just a simple package that allows you to hover over collapsed code and preview the contents",
   "keywords": [
-	  "fold",
-	  "code",
-	  "preview",
-	  "folded",
-	  "collapse",
-	  "collapsed"
+    "fold",
+    "code",
+    "preview",
+    "folded",
+    "collapse",
+    "collapsed"
   ],
   "repository": "https://github.com/73CN0109y-Packages/folded-code-preview",
   "license": "MIT",
