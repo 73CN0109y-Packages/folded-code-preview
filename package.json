@@ -1,10 +1,17 @@
 {
   "name": "folded-code-preview",
   "main": "./lib/folded-code-preview",
-  "version": "0.0.1",
-  "description": "A short description of your package",
-  "keywords": [],
-  "repository": "https://github.com/atom/folded-code-preview",
+  "version": "0.1.0",
+  "description": "Just a simple package that allows you to hover over collapsed code and preview the contents",
+  "keywords": [
+	  "fold",
+	  "code",
+	  "preview",
+	  "folded",
+	  "collapse",
+	  "collapsed"
+  ],
+  "repository": "https://github.com/73CN0109y-Packages/folded-code-preview",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
