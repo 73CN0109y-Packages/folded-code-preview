@@ -1,7 +1,7 @@
 {
   "name": "folded-code-preview",
   "main": "./lib/folded-code-preview",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "Just a simple package that allows you to hover over collapsed code and preview the contents",
   "keywords": [
     "fold",
